@@ -8,6 +8,9 @@ They are partly taken from the Vaadin publication "Building modern web apps with
 The part for the AD replaces the Vaadin part for UserDetails.
 
 
+This project includes the security files for authentication at an active directory controller (windows)
+The security files are in part from "Building modern web apps with Spring Boot and Vaadin"
+
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,
